@@ -1,11 +1,12 @@
 {
   "name": "nobita-loader",
-  "version": "0.0.1",
-  "description": "nobita-init",
-  "main": "lib/nobita-init.js",
+  "version": "0.0.2",
+  "description": "nobita-loader",
+  "main": "lib/nobita-loader.js",
   "dependencies": {
     "lodash": "4.17.10",
-    "nobita-readdir": "0.0.4"
+    "nobita-readdir": "0.0.4",
+    "nobita-require": "0.0.3"
   },
   "devDependencies": {
     
