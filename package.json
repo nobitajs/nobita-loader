@@ -1,0 +1,34 @@
+{
+  "name": "nobita-loader",
+  "version": "0.0.1",
+  "description": "nobita-init",
+  "main": "lib/nobita-init.js",
+  "dependencies": {
+    "lodash": "4.17.10",
+    "nobita-readdir": "0.0.4"
+  },
+  "devDependencies": {
+    
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/nobitajs/nobita.git"
+  },
+  "keywords": [
+    "koa",
+    "nobita",
+    "nobita-loader"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/nobitajs/nobita/issues",
+    "email": "303907720@qq.com"
+  },
+  "author": "JJ",
+  "license": "MIT"
+}
