@@ -1,6 +1,6 @@
 {
   "name": "nobita-loader",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "nobita-loader",
   "main": "lib/nobita-loader.js",
   "dependencies": {
